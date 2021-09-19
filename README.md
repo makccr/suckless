@@ -7,3 +7,5 @@ This repo contains my builds for all of my suckless apps, which thus far is just
 
 ### Dmenu
 My build of dmneu is focused on being as simple as possible, as of right now there is only one patch, the [center](https://tools.suckless.org/dmenu/patches/center/) patch from Ed van Bruggen & Nihal Jere. This results in a dmenu build that functions something like the "Spotlight" app on OSX, except obviously with none of the functionality other than the app launcher.
+
+![Dmenu Preview on Desktop](https://raw.githubusercontent.com/makccr/suckless/main/images/dmenu.png)
